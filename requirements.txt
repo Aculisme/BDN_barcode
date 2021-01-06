@@ -3,7 +3,7 @@ astroid==2.1.0
 bcrypt==3.1.7
 blessings==1.7
 cairocffi==1.1.0
-CairoSVG==2.4.2
+CairoSVG==2.5.1
 certifi==2019.6.16
 cffi==1.12.3
 chardet==3.0.4
