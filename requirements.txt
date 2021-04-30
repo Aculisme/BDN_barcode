@@ -42,7 +42,7 @@ six==1.11.0
 spur==0.3.21
 TBB==0.1
 tinycss2==1.0.2
-urllib3==1.25.3
+urllib3==1.25.8
 wcwidth==0.1.7
 webencodings==0.5.1
 wrapt==1.10.11
